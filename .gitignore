@@ -51,15 +51,6 @@ ipython_config.py
 *.parquet
 *.feather
 
-# Outputs (optional - if notebooks output large files or images)
-*.out
-*.pdf
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-
 # Jupyter lab settings (if using JupyterLab)
 .lab/
 
